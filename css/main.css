@@ -16,13 +16,35 @@ body {
 }
 
 .jumbotron {
-  background-color: forestgreen;
+  background-color: #3D5813;
+}
+
+.jumbotron, h1, p {
+  color: white;
 }
 
 #projects, h2 {
   text-align: center;
+  margin-bottom: 25px;
+}
+
+#projects, .caption {
+  color: white;
+}
+
+#connect {
+  margin-bottom: 25px;
+}
+
+#connect, h2 {
+  color: white;
 }
 
 #footer {
-  background-color: forestgreen;
+  background-color: #3D5813;
+  text-align: center;
+}
+
+#footer, h3, p {
+  color: white;
 }
