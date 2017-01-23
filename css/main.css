@@ -20,11 +20,15 @@ body {
 #projects {
  margin-bottom: 0px;
  padding-bottom: 10px;
- color: #555757;
 }
 
 #projects, h2, .h2 {
   text-align: center;
+  color: #555757;
+}
+
+#projects, .caption {
+  color: #555757;
 }
 
 #connect {
