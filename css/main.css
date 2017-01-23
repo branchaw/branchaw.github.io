@@ -17,6 +17,10 @@ body {
   color: white;
 }
 
+#bio {
+  color: white;
+}
+
 #projects {
  margin-bottom: 0px;
  padding-bottom: 10px;
@@ -47,8 +51,20 @@ body {
   padding-bottom: 5px;
 }
 
+#connect-head {
+  color: white;
+}
+
 #footer {
   background-color: #61AD58;
   text-align: center;
+  color: white;
+}
+
+#footer-brand {
+  color: white;
+}
+
+#copyright {
   color: white;
 }
