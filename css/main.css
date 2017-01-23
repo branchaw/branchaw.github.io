@@ -17,26 +17,25 @@ body {
 
 .jumbotron {
   background-color: #3D5813;
-  opacity: 0.6;
 }
 
 .jumbotron, h1, p {
   color: white;
 }
 
-#projects, h2 {
-  text-align: center;
-  margin-bottom: 25px;
+#projects {
+ margin-bottom: 25px;
+ background-color: white;
+ opacity: 0.6;
 }
 
-#projects, .caption {
-  background-color: white;
+#projects, h2 {
+  text-align: center;
 }
 
 #connect {
   background-color: #3D5813;
   margin-bottom: 25px;
-  opacity: 0.6;
 }
 
 #connect, h2 {
@@ -44,7 +43,7 @@ body {
 }
 
 #footer {
-  background-color: #DAE8AE;
+  background-color: #3D5813;
   text-align: center;
 }
 
