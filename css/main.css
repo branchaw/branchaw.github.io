@@ -20,9 +20,10 @@ body {
 #projects {
  margin-bottom: 0px;
  padding-bottom: 10px;
+ color: #555757;
 }
 
-#projects, h2, .h2 {
+#projects, h2, .h2, h3, p {
   text-align: center;
   color: #555757;
 }
