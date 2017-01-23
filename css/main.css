@@ -2,10 +2,6 @@
    Author's custom styles
    ========================================================================== */
 
-#projects, h2, .h2 {
-  text-align: center;
-}
-
 body {
  /* background-image: url("../images/branchaweb-3000x2250.jpg"); */
 }
@@ -26,11 +22,11 @@ body {
 
 #projects {
  margin-bottom: 0px;
- background-color: #5EA6AB;
  padding-bottom: 10px;
+ color: #555757;
 }
 
-#projects, h2 {
+#projects, h2, .h2 {
   text-align: center;
 }
 
