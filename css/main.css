@@ -16,7 +16,7 @@ body {
 }
 
 .jumbotron {
-  background-color: #81D665;
+  background-color: #61AD58;
   margin-bottom: 0px;
 }
 
@@ -26,7 +26,7 @@ body {
 
 #projects {
  margin-bottom: 0px;
- background-color: #65BAD6;
+ background-color: #5EA6AB;
  padding-bottom: 10px;
 }
 
@@ -35,17 +35,18 @@ body {
 }
 
 #connect {
-  background-color: #81D665;
+  background-color: #61AD58;
   margin-bottom: 0px;
   padding-bottom: 10px;
 }
 
 #connect, h2 {
   color: white;
+  padding-bottom: 5px;
 }
 
 #footer {
-  background-color: #81D665;
+  background-color: #61AD58;
   text-align: center;
 }
 
