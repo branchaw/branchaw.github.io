@@ -14,9 +14,6 @@ body {
 .jumbotron {
   background-color: #61AD58;
   margin-bottom: 0px;
-}
-
-.jumbotron, h1, p {
   color: white;
 }
 
