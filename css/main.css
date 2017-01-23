@@ -1,3 +1,28 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+
+#projects, h2, .h2 {
+  text-align: center;
+}
+
+body {
+  background-image: url("../images/branchaweb-3000x2250.jpg");
+}
+
+#navbar {
+  background-color: greenyellow;
+  margin-bottom: 0px;
+}
+
+.jumbotron {
+  background-color: forestgreen;
+}
+
+#projects, h2 {
+  text-align: center;
+}
+
+#footer {
+  background-color: forestgreen;
+}
