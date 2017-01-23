@@ -10,13 +10,14 @@ body {
   background-image: url("../images/branchaweb-3000x2250.jpg");
 }
 
-#navbar {
-  background-color: greenyellow;
+.navbar {
+  background-color: #DAE8AE;
   margin-bottom: 0px;
 }
 
 .jumbotron {
   background-color: #3D5813;
+  opacity: 0.6;
 }
 
 .jumbotron, h1, p {
@@ -29,11 +30,13 @@ body {
 }
 
 #projects, .caption {
-  color: white;
+  background-color: white;
 }
 
 #connect {
+  background-color: #3D5813;
   margin-bottom: 25px;
+  opacity: 0.6;
 }
 
 #connect, h2 {
@@ -41,7 +44,7 @@ body {
 }
 
 #footer {
-  background-color: #3D5813;
+  background-color: #DAE8AE;
   text-align: center;
 }
 
