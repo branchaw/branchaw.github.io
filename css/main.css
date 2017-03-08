@@ -9,6 +9,8 @@ body {
 .navbar {
   background-color: #DAE8AE;
   margin-bottom: 0px;
+  width: 100%; 
+  z-index: 1000;
 }
 
 .jumbotron {
